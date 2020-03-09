@@ -1,2 +1,3 @@
 Once upon a time there is a man called Cui. He was a profound student in the cs 4000 class in UC Davis. The teacher at the CS 4000 class at UCD is a old witch, it seems to be scaring, but students say she grades mercifully at students. However, Mr Cui, at his first class, noticed something wrong. Compared to the 3000  he completed there are much more assignments to do. He is sacred.
+Last Friday, Cui missed the early submission for the Red-Black Tree program. He was so frustrated. He tried so hard to finish all the requirements from the instructor, but RBT was just hard to implement. The algorithm was more complicated than AVL. He emailed the instructor to make an appointment about how to succeed in this class. The appointment would be after the Spring break.
 
